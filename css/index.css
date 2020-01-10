@@ -1,6 +1,14 @@
 .head{
 	height: 140px;
 }
+.body{
+	
+	background: url(../imge/bk.jpg) no-repeat;
+	background-size:100% 100%; 
+	background-attachment: fixed; 
+	padding: 0px;
+	margin: 0px;
+}
 .blogBody{
 	
 }

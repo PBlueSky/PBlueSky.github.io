@@ -1,0 +1,26 @@
+.head{
+	height: 140px;
+}
+.blogBody{
+	
+}
+.personalInfo{
+	margin-top: 10px;
+	padding-top: 20px;
+	color: #FFFFFF;
+	border:1px solid #FFFFFF;
+	border-radius:10px;
+	padding-left: 10px;
+	
+}
+.documentClass{
+	border:1px solid #FFFFFF;
+	border-radius:10px;
+	margin-top: 20px;
+	padding: 10px;
+}
+.doclist{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+}
